@@ -12,8 +12,6 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
       <a href="https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==">
    </p>
 
-   </p>
-
 
 ---
 
