@@ -8,9 +8,11 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 <div style="background-image: url('https://minimalistic-wallpaper.demolab.com/?random'); background-size: cover; background-position: center; background-attachment: fixed; background-color: rgba(255, 255, 255, 0.5); padding: 20px;">
 
 <p align="left">
-         <a href="https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==">
-         <img alt="followers" title="Follow me on Instagram"src="https://custom-icon-badges.demolab.com/badge/?logo=35528 (1)"/></a>
-   </p>
+   <a href="https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==">
+      <img alt="followers" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/?logo=35528 (1)"/>
+   </a>
+</p>
+
 
 
 ---
