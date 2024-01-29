@@ -9,7 +9,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <p align="left">
    <a href="https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==">
-      <img alt="followers" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Follow me on Instagram" src="http://www.w3.org/2000/svg"/>
    </a>
 </p>
 
