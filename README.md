@@ -9,7 +9,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <p align="left">
    <a href="https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==">
-      <img alt="followers" title="Follow me on Instagram" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2Fbrands-and-social-media%2Ffollow-us-on-instagram-icon.svg&tbnid=Lij76n-wgyQoVM&vet=12ahUKEwjBwprSuoOEAxVVmmMGHUIpApgQMygDegQIARBU..i&imgrefurl=https%3A%2F%2Fuxwing.com%2Ffollow-us-on-instagram-icon%2F&docid=VpeotKrGSzAe1M&w=800&h=233&q=follow%20me%20instagram%20svg&ved=2ahUKEwjBwprSuoOEAxVVmmMGHUIpApgQMygDegQIARBU"/>
+      <img alt="followers" title="Follow me on Instagram" src="https:https://custom-icon-badges.demolab.com/?logo=ad"/>
    </a>
 </p>
 
