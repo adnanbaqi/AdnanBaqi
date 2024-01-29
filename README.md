@@ -43,8 +43,19 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+Embarking on my coding journey 🚀, I discovered a passion for problem-solving and a fascination with the intricacies of technology 💻. Starting with the basics, I delved into programming languages, gradually honing my skills in Python, Java, and more 🐍☕.
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+As I ventured deeper, I found myself captivated by the potential of Machine Learning (ML) and Artificial Intelligence (AI) 🤖🧠. The allure of creating intelligent solutions that could impact real-world scenarios fueled my determination to master these cutting-edge technologies.
+
+Coding wasn't just about syntax for me; it became a means of expression, a way to bring ideas to life 💡. With each project, whether it was developing algorithms, crafting applications, or optimizing code, I gained valuable insights and refined my coding style.
+
+Alongside my programming endeavors, I discovered the artistry in photography 📷 and the power of visual storytelling 🎨. This creative pursuit provided a complementary outlet, allowing me to view problems from a different perspective and infuse a unique blend of creativity into my coding projects.
+
+Video editing became another avenue to showcase my technical and creative prowess 🎥✨. Transforming raw footage into compelling stories, I learned to merge technology with narrative, honing a skill set that went beyond the lines of code.
+
+The world of Non-Fungible Tokens (NFTs) opened up a new frontier for me 🌐. Exploring blockchain, smart contracts, and tokenization, I immersed myself in shaping the digital art revolution 🖼️💎. Developing NFT platforms and creating digital assets with Machine Learning-generated content became integral to my coding journey.
+
+In the collaborative and ever-evolving landscape of coding, I've not only mastered languages and technologies but embraced a mindset of continual learning and adaptation 📚🔄. Each line of code represents a step forward in a journey that is as much about exploration as it is about creation. As I look ahead, I'm excited to see where my coding journey will take me next and the innovations that await 🌐🚀.
+
+[website]: https:// # to add
+[Instagram]: https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==
