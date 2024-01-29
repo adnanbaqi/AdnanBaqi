@@ -43,6 +43,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 #
 
 <details>
+<summary><h3>👨‍💻 Adnan's Coding Journey</h3></summary>
 Embarking on my coding journey 🚀, I discovered a passion for problem-solving and a fascination with the intricacies of technology 💻. Starting with the basics, I delved into programming languages, gradually honing my skills in Python, Java, and more 🐍☕.
 
 As I ventured deeper, I found myself captivated by the potential of Machine Learning (ML) and Artificial Intelligence (AI) 🤖🧠. The allure of creating intelligent solutions that could impact real-world scenarios fueled my determination to master these cutting-edge technologies.
