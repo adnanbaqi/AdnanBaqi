@@ -9,8 +9,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <p align="left">
          <a href="https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==">
-         <img alt="followers" title="Follow me on Instagram" 
-                  src="https://custom-icon-badges.demolab.com/badge/?logo=35528 (1)"/></a>
+         <img alt="followers" title="Follow me on Instagram"src="https://custom-icon-badges.demolab.com/badge/?logo=35528 (1)"/></a>
    </p>
 
 
