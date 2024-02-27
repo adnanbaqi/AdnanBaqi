@@ -15,7 +15,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 </p>
 <p align="left">
    <a href="https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==">
-     <img align="left" alt="Java" width="80px" style="padding-right:50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/>
+     <img align="left" alt="instagram" width="50px" style="padding-right:50px;" src="https://iconduck.com/icons/14113/instagram#"/>
    </a>
 </p>
 
