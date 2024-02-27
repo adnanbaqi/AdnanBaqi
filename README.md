@@ -26,7 +26,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 <br>
 
 
-https://github.com/adnanbaqi/AdnanBaqi/assets/144843601/bcf4902e-8419-4316-9b5d-d43f098380ce
+
 
 
 ---
@@ -36,10 +36,6 @@ https://github.com/adnanbaqi/AdnanBaqi/assets/144843601/bcf4902e-8419-4316-9b5d-
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
