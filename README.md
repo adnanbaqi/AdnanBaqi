@@ -22,20 +22,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
      <img align="left" alt="instagram" width="50px" style="padding-right:50px;" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg"/>
    </a>
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img align="center" alt="instagram" width="700px" style="padding-right:700px;" src="https://user-images.githubusercontent.com/41088314/177622874-fccf99c5-89f0-4f20-9603-5ee0c1c0fd1f.gif"/>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <h1>🧰 Languages and Tools</h1>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -58,7 +45,20 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 #
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<img align="center" alt="instagram" width="700px" style="padding-right:700px;" src="https://user-images.githubusercontent.com/41088314/177622874-fccf99c5-89f0-4f20-9603-5ee0c1c0fd1f.gif"/>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #
 
