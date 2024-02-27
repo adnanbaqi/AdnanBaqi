@@ -1,3 +1,5 @@
+<div style="background-image: url('https://minimalistic-wallpaper.demolab.com/?random'); background-size: cover; background-position: center; background-attachment: fixed; padding: 20px;">
+    <!-- Your content goes here -->
 # 🏄‍♂️ Md Adnan Baqi
 
 **`The Generative AI Guy...!  (Developer/Photographer/Creator)`**
@@ -5,9 +7,8 @@
 A skilled ML/AI developer with a knack for photography and video editing. I bring technical precision and creative flair to projects, capturing moments through my lens and weaving compelling narratives. In the NFT space, I'm not just an observer; I'm actively shaping the digital art revolution with blockchain expertise. Let's innovate and create together!
 
 <!-- Add a background image with 50% transparency -->
-<div style="background-image: url('https://minimalistic-wallpaper.demolab.com/?random'); background-size: cover; background-position: center; background-attachment: fixed; padding: 20px;">
-    <!-- Your content goes here -->
-</div>
+
+
 
 
 <p align="left">
@@ -78,3 +79,4 @@ In the collaborative and ever-evolving landscape of coding, I've not only master
 
 [website]: https:// # to add
 
+</div>
