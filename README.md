@@ -25,6 +25,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 <br>
 <br>
 
+[ezgif-4-5ef4b0754c.webm](https://github.com/adnanbaqi/AdnanBaqi/assets/144843601/22a4993a-caf5-4929-8cf9-a791ccd3c62a)
 
 <br>
 <br>
@@ -82,4 +83,4 @@ In the collaborative and ever-evolving landscape of coding, I've not only master
 [website]: https:// # to add
 
 </div>
-![7be0723f27b098c9311164ef4246a5d7](https://github.com/adnanbaqi/AdnanBaqi/assets/144843601/1fe3454a-d084-4c91-ba2f-c0e8b313e886)
+
