@@ -9,7 +9,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <p align="right">
    <a href="https://www.linkedin.com/in/buckybarns">
-      <img alt="followers" title="Follow me on Instagram" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-plain.svg" width="10" height="10""/>
+      <img alt="followers" title="Follow me on Instagram" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-plain.svg" width="100" height="100""/>
    
    </a>
 </p>
