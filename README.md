@@ -1,6 +1,6 @@
 <div style="background-image: url('https://minimalistic-wallpaper.demolab.com/?random'); background-size: cover; background-position: center; background-attachment: fixed; padding: 20px;">
     <!-- Your content goes here -->
-# 🏄‍♂️ Md Adnan Baqi
+🏄‍♂️ Md Adnan Baqi
 
 **`The Generative AI Guy...!  (Developer/Photographer/Creator)`**
 
