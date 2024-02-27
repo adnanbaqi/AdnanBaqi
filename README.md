@@ -24,7 +24,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 </p>
 <br>
 <br>
-![final](https://github.com/adnanbaqi/AdnanBaqi/assets/144843601/3edc65cc-5f47-47ed-914b-7453bf3c86d9)
+![7be0723f27b098c9311164ef4246a5d7](https://github.com/adnanbaqi/AdnanBaqi/assets/144843601/1fe3454a-d084-4c91-ba2f-c0e8b313e886)
 
 <br>
 <br>
