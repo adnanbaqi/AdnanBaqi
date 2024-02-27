@@ -48,7 +48,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 #
 
 <br>
-<img align="center" alt="instagram" width="700px" style="padding-right:700px;" src="https://gifdb.com/gif/demon-slayer-sabito-qd2tu8rs9vsoyhiw.html?embed=true"/>
+<img align="center" alt="instagram" width="700px" style="padding-right:700px;" src="https://gifdb.com/images/high/demon-slayer-sabito-qd2tu8rs9vsoyhiw.gif"/>
 
 
 <br>
