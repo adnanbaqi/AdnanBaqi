@@ -6,6 +6,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <!-- Add a background image with 50% transparency -->
 <div style="background-image: url('https://minimalistic-wallpaper.demolab.com/?random'); background-size: cover; background-position: center; background-attachment: fixed; background-color: rgba(255, 255, 255, 0.5); padding: 20px;">
+</div>
 
 <p align="left">
    <a href="https://www.linkedin.com/in/buckybarns">
