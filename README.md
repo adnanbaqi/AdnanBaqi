@@ -26,6 +26,15 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 <br>
 
 ---
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 🧰 Languages and Tools
 
