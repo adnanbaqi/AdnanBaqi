@@ -9,7 +9,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <p align="left">
    <a href="https://www.linkedin.com/in/buckybarns">
-    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original-wordmark.svg"/>
+    <img align="left" alt="Java" width="200px" style="padding-right:200px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original-wordmark.svg"/>
    
    </a>
 </p>
