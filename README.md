@@ -7,13 +7,13 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 <!-- Add a background image with 50% transparency -->
 <div style="background-image: url('https://minimalistic-wallpaper.demolab.com/?random'); background-size: cover; background-position: center; background-attachment: fixed; background-color: rgba(255, 255, 255, 0.5); padding: 20px;">
 
-<p align="right">
+<p align="left">
    <a href="https://www.linkedin.com/in/buckybarns">
-      <img alt="followers" title="Follow me on Instagram" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original-wordmark.svg" width="200" height="200""/>
+    <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original-wordmark.svg"/>
    
    </a>
 </p>
-<p align="right">
+<p align="left">
    <a href="https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==">
       <img alt="followers" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
