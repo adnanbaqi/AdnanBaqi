@@ -68,4 +68,4 @@ The world of Non-Fungible Tokens (NFTs) opened up a new frontier for me 🌐. Ex
 In the collaborative and ever-evolving landscape of coding, I've not only mastered languages and technologies but embraced a mindset of continual learning and adaptation 📚🔄. Each line of code represents a step forward in a journey that is as much about exploration as it is about creation. As I look ahead, I'm excited to see where my coding journey will take me next and the innovations that await 🌐🚀.
 
 [website]: https:// # to add
-[Instagram]: https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==
+
