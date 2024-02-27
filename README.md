@@ -9,13 +9,13 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <p align="left">
    <a href="https://www.linkedin.com/in/buckybarns">
-    <img align="left" alt="Java" width="80px" style="padding-right:80px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original-wordmark.svg"/>
+    <img align="left" alt="Java" width="80px" style="padding-right:80px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/>
    
    </a>
 </p>
 <p align="left">
    <a href="https://www.instagram.com/who.is.adnan?igsh=MW90d2Fzb25sMHdmZQ==">
-      <img alt="followers" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+     <img align="left" alt="Java" width="80px" style="padding-right:80px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/>
    </a>
 </p>
 
