@@ -13,7 +13,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <p align="left">
    <a href="https://www.linkedin.com/in/buckybarns">
-    <img align="left" alt="Linkedin" width="500px" style="padding-right:500px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/>
+    <img align="left" alt="Linkedin" width="50px" style="padding-right:50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/>
    
    </a>
 </p>
@@ -24,7 +24,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 </p>
 <br>
 <br>
-<img align="center" alt="instagram" width="50px" style="padding-right:50px;" src="https://user-images.githubusercontent.com/41088314/177622874-fccf99c5-89f0-4f20-9603-5ee0c1c0fd1f.gif"/>
+<img align="center" alt="instagram" width="200px" style="padding-right:200px;" src="https://user-images.githubusercontent.com/41088314/177622874-fccf99c5-89f0-4f20-9603-5ee0c1c0fd1f.gif"/>
 
 
 <br>
