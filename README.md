@@ -24,7 +24,10 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 </p>
 <br>
 <br>
-<img align="center" alt="instagram" width="200px" style="padding-right:200px;" src="https://user-images.githubusercontent.com/41088314/177622874-fccf99c5-89f0-4f20-9603-5ee0c1c0fd1f.gif"/>
+<br>
+<br>
+<br>
+<img align="center" alt="instagram" width="2000px" style="padding-right:2000px;" src="https://user-images.githubusercontent.com/41088314/177622874-fccf99c5-89f0-4f20-9603-5ee0c1c0fd1f.gif"/>
 
 
 <br>
