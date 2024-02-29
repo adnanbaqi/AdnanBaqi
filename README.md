@@ -70,7 +70,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <br>
 <br>
-### 📊 Stats
+📊 Stats
 
 ![Adnan's GitHub stats](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
 
@@ -93,8 +93,5 @@ Video editing became another avenue to showcase my technical and creative prowes
 The world of Non-Fungible Tokens (NFTs) opened up a new frontier for me 🌐. Exploring blockchain, smart contracts, and tokenization, I immersed myself in shaping the digital art revolution 🖼️💎. Developing NFT platforms and creating digital assets with Machine Learning-generated content became integral to my coding journey.
 
 In the collaborative and ever-evolving landscape of coding, I've not only mastered languages and technologies but embraced a mindset of continual learning and adaptation 📚🔄. Each line of code represents a step forward in a journey that is as much about exploration as it is about creation. As I look ahead, I'm excited to see where my coding journey will take me next and the innovations that await 🌐🚀.
-
-[website]: https:// # to add
-
 </div>
 
