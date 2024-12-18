@@ -71,9 +71,8 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
-
 <details>
+    <br>
 <summary><h3>👨‍💻 Adnan's Coding Journey</h3></summary>
 Embarking on my coding journey 🚀, I discovered a passion for problem-solving and a fascination with the intricacies of technology 💻. Starting with the basics, I delved into programming languages, gradually honing my skills in Python, Java, and more 🐍☕.
 
