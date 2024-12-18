@@ -67,7 +67,7 @@ A skilled ML/AI developer with a knack for photography and video editing. I brin
 <br>
 📊 Stats
 
-![Adnan's GitHub stats](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+![adnanbaqi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnanbaqi&theme=blueberry&hide_border=false)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
